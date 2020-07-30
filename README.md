@@ -1,4 +1,4 @@
-# Data-Science
+# Data Science Projects
 Fong Chan Teng's Data Science Project in Jupyter Notebooks.
 
 Author: Fong Chan Teng
